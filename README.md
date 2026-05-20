@@ -1,2 +1,2 @@
 # PRODIGY_DS_01
-Prodigy Task 1
+Prodigy InfoTech Task 1
