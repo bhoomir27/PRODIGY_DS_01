@@ -40,6 +40,5 @@ plt.plot(
 plt.xlabel(f"Population in {selected_col}")
 plt.ylabel("Frequency")
 plt.title(f"Histogram with Skewness Curve ({selected_col})")
-
 # Display graph
 plt.show()
